@@ -1,6 +1,6 @@
 # Demo code
 
-This reposistory includes some shoetrexample code in pdf format
+This reposistory includes some short examples code in pdf format
 
 #php
 
