@@ -7,7 +7,7 @@ This reposistory includes some short examples code in pdf format
 * **exampleCode1.pdf**	A mail class wih generic php
 * **exampleCode2.pdf**	Zend 1 and Lucene code 
 * **phpExample3.pdf** Laravel framework	
-* **symfonyExample.pdf**	Symfony framework
+* **symfonyExample.pdf, symfonyExample.pdf**	Symfony framework
 
 #front end
 
